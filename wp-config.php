@@ -16,16 +16,20 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'talk_ux_com_1');
+// define('DB_NAME', 'talk_ux_com_1');
+define('DB_NAME', 'd1h9bnnc3g13vt');
 
 /** MySQL database username */
-define('DB_USER', 'talkuxcom1');
+// define('DB_USER', 'talkuxcom1');
+define('DB_USER', 'wrfotdgsptnuxy');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'sfnAL?3D');
+// define('DB_PASSWORD', 'sfnAL?3D');
+define('DB_PASSWORD', '8f680de5bfa3e30e196ab4e8215152a783fcefa51cc6de7752e3718899e2b4bf');
 
 /** MySQL hostname */
-define('DB_HOST', 'mysql.talk-ux.com');
+// define('DB_HOST', 'mysql.talk-ux.com');
+define('DB_HOST', 'ec2-23-23-244-83.compute-1.amazonaws.com:5432');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
